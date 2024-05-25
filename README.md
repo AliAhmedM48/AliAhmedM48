@@ -1,13 +1,15 @@
-A highly motivated `Web Developer` with a hands-on experience in building web applications using Angular & NodeJS. Seeking a great chance to enhance my skills and collaborate with seniors developers. I am eager to leverage my knowledge and experience to make meaningful contributions to mega projects. 👏
+# Web Developer
+
+Highly motivated `Web Developer` with hands-on experience in building web applications using Angular & Node.js. Seeking an opportunity to enhance skills and collaborate with senior developers. I am eager to leverage my knowledge and experience to make meaningful contributions to production-scale projects. 👏
 
 ## Internships:
 
-- MEARN stack at ITI. ❤
-- Route Training Center. 💻
+- ITI MEARN stack ❤
+- Route Training Center 💻
 
 ## Projects:
 
-- Solo:
+- Solo Projects:
   - E-Commerce Front-end Website [Angular].
     - Repository: [Github.com/AliAhmedM48/Fresh-Cart](https://github.com/AliAhmedM48/Fresh-Cart)
     - Live Demo: [Fresh-cart-alpha-pied.vercel.app/home](https://fresh-cart-alpha-pied.vercel.app/home)
@@ -15,14 +17,14 @@ A highly motivated `Web Developer` with a hands-on experience in building web ap
     - Live Demo: [A7kylna-frontend.vercel.app/](https://a7kylna-frontend.vercel.app/)
     - Back-End: [Github.com/AliAhmedM48/a7kylna-backend](https://github.com/AliAhmedM48/a7kylna-backend)
     - Front-End: [Github.com/AliAhmedM48/a7kylna-frontend](https://github.com/AliAhmedM48/a7kylna-frontend)
-- Team:
+- Team Projects:
   - Real-time Chat API Application [Node.js / Typescript / Three-tier / Atlas MongoDB] architecture.
-    Contributing to Backend and API documentation.
+    - Contributed to Backend and API documentation.
     - Back-End: [Github.com/AliAhmedM48/Chatify-backend](https://github.com/AliAhmedM48/Chatify-backend)
     - Swagger Documentation: [Chat-backend-citu.onrender.com/api-docs](https://chat-backend-citu.onrender.com/api-docs/)
     - Front-End: [Github.com/AliAhmedM48/Chatify-frontend](https://github.com/AliAhmedM48/Chatify-frontend)
   - Full-stack Blogs Website [Angular / Node.js / Atlas MongoDB]
-    Contributing to Front-end.
+    - Contributed to Front-end.
     - Front-End: [Github.com/AliAhmedM48/DevJourney-frontend](https://github.com/AliAhmedM48/DevJourney-frontend)
     - Back-End: [Github.com/AliAhmedM48/DevJourney-backend](https://github.com/AliAhmedM48/DevJourney-backend)
 
